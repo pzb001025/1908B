@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
         double d3 = 56;
         double d4 = 77;
         String cc = "cc";
+        int a = 10;
+        int b = 20;
+        String str = "sss";
+        String str2 = "sad";
     }
 }
